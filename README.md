@@ -1,8 +1,8 @@
 # Nike Sales Analysis #
 ---
-- # Overview:
-      The **Nike Sales Analysis 2024** project examines sales performance across regions, product categories, and sales channels. It identifies key trends, such as peak sales in **Q4** strong **online sales in India**, and higher **offline sales for premium products in Greater China**. Top-selling items include **Gym Sacks, Performance Socks, and Tech Fleece Tops**. The analysis provides strategic recommendations to **boost Q1 sales, optimize pricing, and enhance inventory management** for better revenue growth.
-  ---
+- ### Overview:
+  The **Nike Sales Analysis 2024** project examines sales performance across regions, product categories, and sales channels. It identifies key trends, such as peak sales in **Q4** strong **online sales in India**, and higher **offline sales for premium products in Greater China**. Top-selling items include **Gym Sacks, Performance Socks, and Tech Fleece Tops**. The analysis provides strategic recommendations to **boost Q1 sales, optimize pricing, and enhance inventory management** for better revenue growth.
+---
 #### **1. Sales Performance Trends Over Time**
 - **Peak Sales Periods:**  
   - Strong sales observed in **Q4 (October-December)**, with increased demand in **India and Greater China**.  
