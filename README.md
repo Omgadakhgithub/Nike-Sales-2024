@@ -2,9 +2,8 @@
 
 ### 1. Sales Performance Trends Over Time:-
 - **Peak Sales Periods:**
-
-High sales recorded in Q4 (October-December), especially in India and Greater China.
-November and December show strong revenue performance, likely driven by holiday shopping and promotions.
+  - High sales recorded in **Q4 (October-December)**, especially in **India and Greater China**.
+  - **November and December show strong revenue performance**, likely driven by holiday shopping and promotions.
 Slow Sales Periods:
 
 Q1 (January-March) shows lower units sold across most categories.
