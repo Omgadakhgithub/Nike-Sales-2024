@@ -1,6 +1,6 @@
-# Nike-Sales-2024
+# Nike Sales 
 
-- **1. Sales Performance Trends Over Time:-**
+- # 1. Sales Performance Trends Over Time:-
 - *Peak Sales Periods:*
 
 High sales recorded in Q4 (October-December), especially in India and Greater China.
