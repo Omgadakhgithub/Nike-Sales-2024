@@ -1,4 +1,4 @@
-# Nike Sales 
+# Nike Sales Analysis #
 ---
 #### **1. Sales Performance Trends Over Time**
 - **Peak Sales Periods:**  
