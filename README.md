@@ -1,6 +1,6 @@
 # Nike Sales Analysis #
 ---
-<img src="(https://github.com/Omgadakhgithub/Nike-Sales-Analysis-2024/blob/4fb3bb8bc968b66a1b4f562850c14542173d2c5a/og_nike-founder-phil-knight.png)" alt="myql-logo" width="1000" height="500"/>
+<img src="https://github.com/Omgadakhgithub/Nike-Sales-Analysis-2024/blob/4fb3bb8bc968b66a1b4f562850c14542173d2c5a/og_nike-founder-phil-knight.png" alt="myql-logo" width="1000" height="500"/>
 
 ---
 - ### Overview:
