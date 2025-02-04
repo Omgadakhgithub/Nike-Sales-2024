@@ -56,5 +56,11 @@
   - Offer **bundled discounts** for mid-range products to increase sales volume.  
 
 ---
-
+# Data Story:-
+  ### **Key Business Recommendations**
+✅ **Boost Q1 sales with special promotions and campaigns.**  
+✅ **Enhance online-exclusive deals for budget and mid-range categories to capture e-commerce demand.**  
+✅ **Leverage in-store experiences for premium products to drive offline engagement.**  
+✅ **Ensure efficient inventory management for top-selling items like Gym Sacks, Cricket Shoes, and Fleece Tops.**  
+✅ **Refine pricing strategies to maximize revenue in both budget and premium product segments.** 
 
