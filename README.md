@@ -3,9 +3,12 @@
 <img src="https://github.com/Omgadakhgithub/Nike-Sales-Analysis-2024/blob/4fb3bb8bc968b66a1b4f562850c14542173d2c5a/og_nike-founder-phil-knight.png" alt="myql-logo" width="1000" height="500"/>
 
 ---
-- ### Overview:
+
+ ## Overview:
   The **Nike Sales Analysis 2024** project examines sales performance across regions, product categories, and sales channels. It identifies key trends, such as peak sales in **Q4** strong **online sales in India**, and higher **offline sales for premium products in Greater China**. Top-selling items include **Gym Sacks, Performance Socks, and Tech Fleece Tops**. The analysis provides strategic recommendations to **boost Q1 sales, optimize pricing, and enhance inventory management** for better revenue growth.
+  
 ---
+
 #### **1. Sales Performance Trends Over Time**
 - **Peak Sales Periods:**  
   - Strong sales observed in **Q4 (October-December)**, with increased demand in **India and Greater China**.  
@@ -57,7 +60,7 @@
 
 ---
 
-# Data Story:-
+# Data Story:
   ### **Key Business Recommendations**
 ✅ **Boost Q1 sales with special promotions and campaigns.**  
 ✅ **Enhance online-exclusive deals for budget and mid-range categories to capture e-commerce demand.**  
@@ -65,3 +68,8 @@
 ✅ **Ensure efficient inventory management for top-selling items like Gym Sacks, Cricket Shoes, and Fleece Tops.**  
 ✅ **Refine pricing strategies to maximize revenue in both budget and premium product segments.** 
 
+---
+
+# Dashboard:
+
+![Nike Dashboard](https://github.com/user-attachments/assets/d98cf8de-0669-4b05-b04a-7d2961bb7cf0)
